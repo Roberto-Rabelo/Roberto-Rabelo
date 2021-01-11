@@ -8,4 +8,4 @@ An HTML boy passionate about technology and motivated from an early age to creat
 <h3 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 Linkedin</a>
 </h3>
-https://img.shields.io/static/v1?label=<Linkedin>&message=<MESSAGE>&color=<7159c1>&style=<>&logo=<>
+<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
