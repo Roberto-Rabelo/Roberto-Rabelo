@@ -9,6 +9,5 @@ An HTML boy passionate about technology and motivated from an early age to creat
     <a href="https://pt-br.reactjs.org/">🔗 Linkedin</a>
 </h3>
 <img src="https://img.shields.io/static/v1?label=Linkedin&message=-&color=7159c1&style=for-the-badge&logo=ghost"/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasDanielLD)](https://github.com/anuraghazra/github-readme-stats)
-[![Betinho dev(https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Rabelo]
+![Roberto-Rabelo Status](https://github-readme-stats.vercel.app/api?username=Roberto-Rabelo&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-rabelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
