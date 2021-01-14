@@ -9,3 +9,4 @@ An HTML boy passionate about technology and motivated from an early age to creat
     <a href="https://pt-br.reactjs.org/">🔗 Linkedin</a>
 </h3>
 <img src="https://img.shields.io/static/v1?label=Linkedin&message=-&color=7159c1&style=for-the-badge&logo=ghost"/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Roberto-Rabelo)](https://github.com/anuraghazra/github-readme-stats)
