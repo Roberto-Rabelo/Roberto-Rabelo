@@ -7,4 +7,5 @@ An HTML boy passionate about technology and motivated from an early age to creat
   </p>
 ![Roberto-Rabelo Status](https://github-readme-stats.vercel.app/api?username=Roberto-Rabelo&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Rabelo&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-rabelo&layout=compact"/>
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-rabelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
