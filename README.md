@@ -8,6 +8,6 @@ An HTML boy passionate about technology and motivated from an early age to creat
 <h3 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 Linkedin</a>
 </h3>
-<img src="https://img.shields.io/static/v1?label=Linkedin&message=-&color=7159c1&style=for-the-badge&logo=ghost"/>
+https://img.shields.io/badge/%20-Linkedin-blue
 ![Roberto-Rabelo Status](https://github-readme-stats.vercel.app/api?username=Roberto-Rabelo&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-rabelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
