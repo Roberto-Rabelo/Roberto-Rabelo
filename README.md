@@ -7,5 +7,5 @@ An HTML boy passionate about technology and motivated from an early age to creat
   </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Rabelo&show_icons=true&theme=radical&include_all_commits=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-rabelo&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-rabelo&layout=compact&theme=radical"/>
 
