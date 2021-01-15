@@ -6,6 +6,6 @@ An HTML boy passionate about technology and motivated from an early age to creat
 <img src="https://img.shields.io/badge/Perfil-Apresenta%C3%A7%C3%A3o-success"/>
   </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Roberto-Rabelo&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Roberto-Rabelo&show_icons=true&theme=radical&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-rabelo&layout=compact"/>
 
