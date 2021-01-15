@@ -5,7 +5,7 @@ An HTML boy passionate about technology and motivated from an early age to creat
 <img src="https://img.shields.io/badge/%20-Linkedin-blue?"/>
 <img src="https://img.shields.io/badge/Perfil-Apresenta%C3%A7%C3%A3o-success"/>
   </p>
-![Roberto-Rabelo Status](https://github-readme-stats.vercel.app/api?username=Roberto-Rabelo&show_icons=true)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Rabelo&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-rabelo&layout=compact"/>
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-rabelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
