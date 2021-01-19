@@ -2,7 +2,7 @@ Um menino do HTML apaixonado por tecnologia e desde cedo motivado em criar e des
 -
 An HTML boy passionate about technology and motivated from an early age to create and develop solutions. Always seeking to improve my knowledge in the area of front-end, UI and UX design through courses and personal projects. Seeking to delve into the front-end universe always delivering the best user experience.
 <p align=center>
-<img src="https://img.shields.io/badge/%20-Linkedin-blue?"/>
+<a href="https://www.linkedin.com/in/roberto-rabelo-76551a147/"><img src="https://img.shields.io/badge/%20-Linkedin-blue?"/></a>
 <a  href="https://roberto-rabelo.github.io/perfil/"><img src="https://img.shields.io/badge/Site-Apresenta%C3%A7%C3%A3o-success"/>
   </p> </>
 
