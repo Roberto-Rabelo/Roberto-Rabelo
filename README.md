@@ -1,6 +1,6 @@
-Um menino do HTML apaixonado por tecnologia e desde cedo motivado em criar e desenvolver soluções. Buscando sempre aprimorar meu conhecimento na área Full Stack por meio de cursos e projetos pessoais. Procurando me aprofundar nesse universo visando sempre entregar a melhor experiencia pro usuário
+Imerso na tecnologia desde 2014, transformo desafios em software que funciona e gera impacto real. Com background sólido em desenvolvimento Full Stack e Arquitetura de Software, foco em automação de processos e sistemas escaláveis, sempre priorizando performance e a melhor experiência para o usuário final
 -
-An HTML boy passionate about technology and motivated from an early age to create and develop solutions. Always seeking to improve my knowledge in the Full Stack area through courses and personal projects. Searching to delve into this complementary universe always deliver the best user experience
+Immersed in technology since 2014, I transform challenges into software that works and generates real impact. With a solid background in Full Stack Development and Software Architecture, I focus on process automation and scalable systems, always prioritizing performance and the best experience for the end user.
 <p align=left>
   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Roberto-Rabelo&repo=Roberto-Rabelo&countColorcountColor"/>
   </p>
