@@ -10,6 +10,5 @@ Immersed in technology since 2014, I transform challenges into software that wor
 <a  href="https://roberto-rabelo.github.io/sitecurriculo/"><img src="https://img.shields.io/badge/Site-Apresenta%C3%A7%C3%A3o-success"/></a>
   </p> </>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Roberto-Rabelo&show_icons=true&theme=radical&include_all_commits=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-rabelo&layout=compact&theme=radical"/>
+
 
